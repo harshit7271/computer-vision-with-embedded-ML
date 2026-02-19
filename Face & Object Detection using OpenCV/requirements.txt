@@ -1,0 +1,4 @@
+opencv
+haarcascade-python
+numpy
+xmltodict
